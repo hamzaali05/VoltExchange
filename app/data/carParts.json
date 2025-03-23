@@ -1,0 +1,358 @@
+{
+  "parts": [
+    {
+      "id": "1",
+      "name": "EV Battery Pack",
+      "price": 2500,
+      "category": "EV Parts",
+      "description": "High-capacity battery pack for Tesla Model 3",
+      "detailedDescription": "This high-performance battery pack offers extended range and improved efficiency. Manufactured with the latest lithium-ion technology, it provides reliable power output and longer lifespan.",
+      "specifications": {
+        "capacity": "75 kWh",
+        "voltage": "350V",
+        "weight": "480 kg",
+        "warranty": "2 years"
+      },
+      "seller": {
+        "name": "EV Parts Calgary",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2P 1J9",
+        "joinedDate": "2023-01-15",
+        "totalListings": 45,
+        "rating": 4.8,
+        "contactEmail": "sales@evpartscalgary.com"
+      },
+      "condition": "New",
+      "compatibility": ["Tesla Model 3", "Tesla Model Y"],
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5y6ZYxEtR2H5klCkjpVTz8UCfRGMHGJXBRGOkLzzf7xO0nq9LtTaIrTFkkqHrV4NkuEt1UI7dQCcC6FAvaHM7snrcwAYhKnl1Vyj3C2GLZxoKL70bxyeabg",
+      "additionalImages": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5y6ZYxEtR2H5klCkjpVTz8UCfRGMHGJXBRGOkLzzf7xO0nq9LtTaIrTFkkqHrV4NkuEt1UI7dQCcC6FAvaHM7snrcwAYhKnl1Vyj3C2GLZxoKL70bxyeabg",
+        "https://placehold.co/800x600",
+        "https://placehold.co/800x600"
+      ],
+      "uploadDate": "2024-03-23",
+      "lastUpdated": "2024-03-23",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 75,
+        "estimatedDays": "3-5"
+      }
+    },
+    {
+      "id": "a9f4e2d3-8c6b-asdg46fe-9a77-13b4d927f845",
+      "name": "EV Battery Pack 30kWh",
+      "price": 15000,
+      "category": "EV Parts",
+      "description": "30kWh battery pack suitable for various electric vehicles",
+      "detailedDescription": "This 30kWh battery pack is designed for compatibility with multiple EV models, offering reliable performance and extended range. Built with advanced lithium-ion technology, it ensures durability and efficiency.",
+      "specifications": {
+        "capacity": "30 kWh",
+        "voltage": "350V",
+        "weight": "320 kg",
+        "warranty": "2 years"
+      },
+      "seller": {
+        "name": "Hunan CTS Technology Co., Ltd.",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2P 3N8",
+        "joinedDate": "2022-09-10",
+        "totalListings": 60,
+        "rating": 4.7,
+        "contactEmail": "info@hunantech.ca"
+      },
+      "condition": "New",
+      "compatibility": ["Universal"],
+      "image": "https://images.hgmsites.net/hug/nissan-prototype-60-kwh-battery-pack--nissan-technical-center-october-2015_100532729_h.jpg",
+      "additionalImages": [
+        "https://images.hgmsites.net/hug/nissan-prototype-60-kwh-battery-pack--nissan-technical-center-october-2015_100532729_h.jpg",
+        "https://image.made-in-china.com/202f0j00aJspXBdvrfWS/Electric-Car-Battery-Lithium.jpg"
+      ],
+      "uploadDate": "2024-05-12",
+      "lastUpdated": "2024-05-12",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 200,
+        "estimatedDays": "7-10"
+      }
+    },
+    {
+      "id": "3c2a5f98-7b2eadfs-4b10-8a9f-d2e1b55f439a",
+      "name": "EV Conversion Kit with Warp 9 Motor",
+      "price": 12000,
+      "category": "EV Conversion Kits",
+      "description": "Comprehensive kit for converting vehicles to electric power using the Warp 9 motor",
+      "detailedDescription": "This EV conversion kit includes the renowned Warp 9 motor, controller, and all necessary components for transforming a conventional vehicle into an electric one. Ideal for DIY enthusiasts and professionals.",
+      "specifications": {
+        "motor": "Warp 9 DC Motor",
+        "controller": "500A PWM Controller",
+        "voltageRange": "96V - 144V",
+        "warranty": "1 year"
+      },
+      "seller": {
+        "name": "EV Conversion Supplies",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2H 1K4",
+        "joinedDate": "2021-03-22",
+        "totalListings": 25,
+        "rating": 4.9,
+        "contactEmail": "sales@evconversionsupplies.ca"
+      },
+      "condition": "New",
+      "compatibility": ["Various vehicle models"],
+      "image": "https://cdn.cheersandgears.com/monthly_2018_07/small.gallery_12_1092_118880.jpg.9f53d9267be33a65737139bc5ee6c7be.jpg",
+      "additionalImages": [
+        "https://cdn.cheersandgears.com/monthly_2018_07/small.gallery_12_1092_118880.jpg.9f53d9267be33a65737139bc5ee6c7be.jpg",
+        "https://i.pinimg.com/originals/2b/3e/8a/2b3e8a9f6a3e4b8a9f6a3e4b8a9f6a3e4.jpg"
+      ],
+      "uploadDate": "2024-06-18",
+      "lastUpdated": "2024-06-18",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 150,
+        "estimatedDays": "5-7"
+      }
+    },
+    {
+      "id": "d1e2f3a4-b5c6-789asdfas0-d1e2-f3a4b5c67890",
+      "name": "EV Charging Cable - Type 2 to Type 1",
+      "price": 150,
+      "category": "Charging Equipment",
+      "description": "Type 2 to Type 1 EV charging cable for connecting European standard charging stations to North American vehicles.",
+      "detailedDescription": "This high-quality charging cable allows you to connect Type 2 charging stations commonly found in Europe to Type 1 (SAE J1772) connectors used in North American electric vehicles. It supports up to 32A charging current, ensuring efficient and reliable charging.",
+      "specifications": {
+        "length": "5 meters",
+        "current": "32A",
+        "voltage": "240V",
+        "connectorType": "Type 2 to Type 1",
+        "warranty": "1 year"
+      },
+      "seller": {
+        "name": "EV Connectors Canada",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2E 6Y9",
+        "joinedDate": "2022-11-05",
+        "totalListings": 20,
+        "rating": 4.6,
+        "contactEmail": "support@evconnectors.ca"
+      },
+      "condition": "New",
+      "compatibility": ["Vehicles with Type 1 connectors"],
+      "image": "https://m.media-amazon.com/images/I/61jUbtmCOML._AC_UF894,1000_QL80_.jpg",
+      "additionalImages": [
+        "https://m.media-amazon.com/images/I/61jUbtmCOML._AC_UF894,1000_QL80_.jpg",
+        "https://www.evconnectors.ca/images/type2-to-type1-cable-connector.jpg"
+      ],
+      "uploadDate": "2024-04-10",
+      "lastUpdated": "2024-04-10",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 15,
+        "estimatedDays": "3-5"
+      }
+    },
+    {
+      "id": "f4e5d6c7-b8a9-0123-saf4e5-d6c7b8a90123",
+      "name": "EV Fast Charging Station - 50kW",
+      "price": 12000,
+      "category": "Charging Equipment",
+      "description": "Commercial-grade 50kW fast charging station suitable for public and private installations.",
+      "detailedDescription": "This 50kW DC fast charging station is designed for rapid charging of electric vehicles, making it ideal for commercial installations such as parking lots, service stations, and fleet operations. It supports both CCS and CHAdeMO connectors, ensuring compatibility with a wide range of EVs.",
+      "specifications": {
+        "powerOutput": "50kW",
+        "inputVoltage": "400V AC",
+        "connectorTypes": ["CCS", "CHAdeMO"],
+        "dimensions": "1800mm x 600mm x 400mm",
+        "warranty": "2 years"
+      },
+      "seller": {
+        "name": "ChargePoint Solutions",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2C 3G3",
+        "joinedDate": "2021-07-22",
+        "totalListings": 12,
+        "rating": 4.9,
+        "contactEmail": "sales@chargepointsolutions.ca"
+      },
+      "condition": "New",
+      "compatibility": ["All CCS and CHAdeMO compatible vehicles"],
+      "image": "https://cdn.prod.website-files.com/60c0244bbe20330695cffa65/633aedc8f7c455acb7417de2_heliox-rapid-cs-50kw-ev-charging-station.webp",
+      "additionalImages": [
+        "https://cdn.prod.website-files.com/60c0244bbe20330695cffa65/633aedc8f7c455acb7417de2_heliox-rapid-cs-50kw-ev-charging-station.webp",
+        "https://www.chargepointsolutions.ca/images/50kw-charger-side.jpg"
+      ],
+      "uploadDate": "2024-02-18",
+      "lastUpdated": "2024-02-18",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 500,
+        "estimatedDays": "7-10"
+      }
+    },
+    {
+      "id": "e7b8c9d0-1a2b-3casdga4d-5e6f-7g8h9i0j1k2l",
+      "name": "EV Motor Controller",
+      "price": 1050,
+      "category": "EV Parts",
+      "description": "High-performance motor controller for electric vehicles",
+      "detailedDescription": "This motor controller is designed to provide precise control over your EV's motor, enhancing performance and efficiency. It supports regenerative braking and is compatible with various motor types.",
+      "specifications": {
+        "voltageRange": "48V - 96V",
+        "currentRating": "500A",
+        "efficiency": "98%",
+        "warranty": "2 years"
+      },
+      "seller": {
+        "name": "EV Underground",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2G 1Y6",
+        "joinedDate": "2022-05-10",
+        "totalListings": 30,
+        "rating": 4.9,
+        "contactEmail": "info@evunderground.ca"
+      },
+      "condition": "New",
+      "compatibility": ["Universal"],
+      "image": "https://m.media-amazon.com/images/I/719o5gcQiAL._AC_UF894,1000_QL80_.jpg",
+      "additionalImages": [
+        "https://m.media-amazon.com/images/I/719o5gcQiAL._AC_UF894,1000_QL80_.jpg",
+        "https://www.evunderground.ca/images/motor_controller_back.jpg"
+      ],
+      "uploadDate": "2024-07-15",
+      "lastUpdated": "2024-07-15",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 50,
+        "estimatedDays": "3-5"
+      }
+    },
+    {
+      "id": "f1a2b3c4-d5e6-7f8g-as9h0i-1j2k3l4m5n6o",
+      "name": "EV Power Steering Kit",
+      "price": 1250,
+      "category": "EV Parts",
+      "description": "Electric power steering kit for EV conversions",
+      "detailedDescription": "This kit provides electric power-assisted steering for vehicles undergoing EV conversions, improving handling and driver comfort. It includes all necessary components for installation.",
+      "specifications": {
+        "inputVoltage": "12V",
+        "torqueAssistance": "Up to 80 Nm",
+        "weight": "8 kg",
+        "warranty": "1 year"
+      },
+      "seller": {
+        "name": "canEV",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2H 2J1",
+        "joinedDate": "2021-08-22",
+        "totalListings": 15,
+        "rating": 4.7,
+        "contactEmail": "sales@canev.com"
+      },
+      "condition": "New",
+      "compatibility": ["Universal"],
+      "image": "https://evolveelectrics.com/cdn/shop/products/electric_power_steering_kit.jpg?v=1738283320",
+      "additionalImages": [
+        "https://evolveelectrics.com/cdn/shop/products/electric_power_steering_kit.jpg?v=1738283320",
+        "https://canev.com/images/power_steering_kit_components.jpg"
+      ],
+      "uploadDate": "2024-08-10",
+      "lastUpdated": "2024-08-10",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 60,
+        "estimatedDays": "4-6"
+      }
+    },
+    {
+      "id": "e7b8c9d0-1a2b-3c4d-5e6f-7gsa8h9i0j1k2l",
+      "name": "EV Motor Controller",
+      "price": 650,
+      "category": "EV Parts",
+      "description": "High-performance motor controller for electric vehicles",
+      "detailedDescription": "This motor controller is designed to provide precise control over your EV's motor, enhancing performance and efficiency. It supports regenerative braking and is compatible with various motor types.",
+      "specifications": {
+        "voltageRange": "48V - 96V",
+        "currentRating": "500A",
+        "efficiency": "98%",
+        "warranty": "2 years"
+      },
+      "seller": {
+        "name": "EV Underground",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2G 1Y6",
+        "joinedDate": "2022-05-10",
+        "totalListings": 30,
+        "rating": 4.9,
+        "contactEmail": "info@evunderground.ca"
+      },
+      "condition": "New",
+      "compatibility": ["Universal"],
+      "image": "https://www.invt.com/uploads/img1/20200409/5e8e9433b5e55.jpg",
+      "additionalImages": [
+        "https://www.invt.com/uploads/img1/20200409/5e8e9433b5e55.jpg",
+        "https://www.evunderground.ca/images/motor_controller_back.jpg"
+      ],
+      "uploadDate": "2024-07-15",
+      "lastUpdated": "2024-07-15",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 50,
+        "estimatedDays": "3-5"
+      }
+    },
+    {
+      "id": "f1a2b3c4-d5e6-7f8g-9h0i-1j2k3l4sadgm5n6o",
+      "name": "EV Power Steering Kit",
+      "price": 1200,
+      "category": "EV Parts",
+      "description": "Electric power steering kit for EV conversions",
+      "detailedDescription": "This kit provides electric power-assisted steering for vehicles undergoing EV conversions, improving handling and driver comfort. It includes all necessary components for installation.",
+      "specifications": {
+        "inputVoltage": "12V",
+        "torqueAssistance": "Up to 80 Nm",
+        "weight": "8 kg",
+        "warranty": "1 year"
+      },
+      "seller": {
+        "name": "canEV",
+        "isVerified": true,
+        "location": "Calgary, AB",
+        "postalCode": "T2H 2J1",
+        "joinedDate": "2021-08-22",
+        "totalListings": 15,
+        "rating": 4.7,
+        "contactEmail": "sales@canev.com"
+      },
+      "condition": "New",
+      "compatibility": ["Universal"],
+      "image": "https://canev.com/images/power_steering_kit.jpg",
+      "additionalImages": [
+        "https://canev.com/images/power_steering_kit_side.jpg",
+        "https://canev.com/images/power_steering_kit_components.jpg"
+      ],
+      "uploadDate": "2024-08-10",
+      "lastUpdated": "2024-08-10",
+      "availability": true,
+      "shipping": {
+        "available": true,
+        "cost": 60,
+        "estimatedDays": "4-6"
+      }
+    }
+  ]
+}
